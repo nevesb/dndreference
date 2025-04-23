@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Z\nAboleth\nAboleth",
+    "tamanho": "Large",
+    "tipo": "Aberration",
+    "alinhamento": "Lawful Evil",
+    "ac": "",
+    "hp": "",
+    "velocidade": "",
+    "descricao": "Z",
+    "pagina": 255
+  },
+  {
+    "id": 2,
+    "nome": "Air Elemental\nAir Elemental",
+    "tamanho": "Large",
+    "tipo": "Elemental",
+    "alinhamento": "Neutral",
+    "ac": "",
+    "hp": "",
+    "velocidade": "",
+    "descricao": "Air",
+    "pagina": 255
+  }
+]
