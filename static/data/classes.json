@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 3
+  },
+  {
+    "id": 2,
+    "nome": "Rogue",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 11
+  },
+  {
+    "id": 3,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 4,
+    "nome": "Bard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 5,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 6,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 7,
+    "nome": "Fighter",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 8,
+    "nome": "Monk",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 9,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 10,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 11,
+    "nome": "Rogue",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 12,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 13,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 14,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 21
+  },
+  {
+    "id": 15,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 23
+  },
+  {
+    "id": 16,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 23
+  },
+  {
+    "id": 17,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 23
+  },
+  {
+    "id": 18,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 23
+  },
+  {
+    "id": 19,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 24
+  },
+  {
+    "id": 20,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 24
+  },
+  {
+    "id": 21,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 26
+  },
+  {
+    "id": 22,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 26
+  },
+  {
+    "id": 23,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 27
+  },
+  {
+    "id": 24,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "Strength and Constitution\nSkill Proficiencies Choose 2:  Animal Handling, \nAthletics, Intimidation, Na -\nture, Perception, or Survival\nWeapon Proficiencies Simple and Martial weapons\nArmor Training Light and Medium armor and \nShields\nStarting Equipment Choose A or B: (A) Greataxe, \n4 Handaxes, Explorer’s Pack, \nand 15 GP; or (B) 75 GP\nBecoming a Barbarian …\nAs a Level 1 Character\n• Gain all the traits in the Core Barbarian Traits \ntable",
+    "descricao": null,
+    "pagina_inicial": 28
+  },
+  {
+    "id": 25,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 29
+  },
+  {
+    "id": 26,
+    "nome": "Barbarian",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 30
+  },
+  {
+    "id": 27,
+    "nome": "Bard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 33
+  },
+  {
+    "id": 28,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 33
+  },
+  {
+    "id": 29,
+    "nome": "Bard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 34
+  },
+  {
+    "id": 30,
+    "nome": "Bard",
+    "hit_dice": "",
+    "proficiencias": "You gain proficiency with three skills of your choice",
+    "descricao": null,
+    "pagina_inicial": 35
+  },
+  {
+    "id": 31,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "You gain proficiency with three skills of your choice",
+    "descricao": null,
+    "pagina_inicial": 35
+  },
+  {
+    "id": 32,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 37
+  },
+  {
+    "id": 33,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 38
+  },
+  {
+    "id": 34,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 39
+  },
+  {
+    "id": 35,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 40
+  },
+  {
+    "id": 36,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 42
+  },
+  {
+    "id": 37,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 43
+  },
+  {
+    "id": 38,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 44
+  },
+  {
+    "id": 39,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 45
+  },
+  {
+    "id": 40,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 46
+  },
+  {
+    "id": 41,
+    "nome": "Fighter",
+    "hit_dice": "",
+    "proficiencias": "Strength and Constitution\nSkill Proficiencies Choose 2:  Acrobatics, Animal \nHandling, Athletics, History, \nInsight, Intimidation, Persua -\nsion, Perception, or Survival\nWeapon Proficiencies Simple and Martial weapons\nArmor Training Light, Medium, and Heavy ar -\nmor and Shields\nStarting Equipment Choose A , B, or C: (A) Chain \nMail, Greatsword, Flail, 8 Jav -\nelins, Dungeoneer’s Pack, and \n4 GP; (B) Studded Leather \nArmor, Scimitar, Short  sword, \nLongbow, 20 Arrows, Quiver, \nDungeoneer’s Pack, and 11 \nGP; or (C) 155 GPBecoming a Fighter …\nAs a Level 1 Character\n• Gain all the traits in the Core Fighter Traits table",
+    "descricao": null,
+    "pagina_inicial": 47
+  },
+  {
+    "id": 42,
+    "nome": "Fighter",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 48
+  },
+  {
+    "id": 43,
+    "nome": "Fighter",
+    "hit_dice": "",
+    "proficiencias": "Strength and Dexterity\nSkill Proficiencies Choose 2:  Acrobatics, Athlet -\nics, History, Insight, Religion, \nor Stealth\nWeapon Proficiencies Simple weapons and Martial \nweapons that have the Light \nproperty\nTool Proficiencies Choose one type of Artisan’s \nTools or Musical Instrument (see \n“Equipment”)\nArmor Training None\nStarting Equipment Choose A or B: (A) Spear, 5 \nDaggers, Artisan’s Tools or \nMusical Instrument chosen \nfor the tool proficiency above, \nExplorer’s Pack, and 11 GP; or \n(B) 50 GP\nBecoming a Monk …\nAs a Level 1 Character\n• Gain all the traits in the Core Monk Traits table",
+    "descricao": null,
+    "pagina_inicial": 49
+  },
+  {
+    "id": 44,
+    "nome": "Monk",
+    "hit_dice": "",
+    "proficiencias": "Strength and Dexterity\nSkill Proficiencies Choose 2:  Acrobatics, Athlet -\nics, History, Insight, Religion, \nor Stealth\nWeapon Proficiencies Simple weapons and Martial \nweapons that have the Light \nproperty\nTool Proficiencies Choose one type of Artisan’s \nTools or Musical Instrument (see \n“Equipment”)\nArmor Training None\nStarting Equipment Choose A or B: (A) Spear, 5 \nDaggers, Artisan’s Tools or \nMusical Instrument chosen \nfor the tool proficiency above, \nExplorer’s Pack, and 11 GP; or \n(B) 50 GP\nBecoming a Monk …\nAs a Level 1 Character\n• Gain all the traits in the Core Monk Traits table",
+    "descricao": null,
+    "pagina_inicial": 49
+  },
+  {
+    "id": 45,
+    "nome": "Monk",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 50
+  },
+  {
+    "id": 46,
+    "nome": "Monk",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 51
+  },
+  {
+    "id": 47,
+    "nome": "Monk",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 52
+  },
+  {
+    "id": 48,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 54
+  },
+  {
+    "id": 49,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 54
+  },
+  {
+    "id": 50,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 55
+  },
+  {
+    "id": 51,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 56
+  },
+  {
+    "id": 52,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 58
+  },
+  {
+    "id": 53,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 59
+  },
+  {
+    "id": 54,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 59
+  },
+  {
+    "id": 55,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 60
+  },
+  {
+    "id": 56,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "Dexterity and Intelligence\nSkill Proficiencies Choose 4: Acrobatics, Ath -\nletics, Deception, Insight, \nIntimidation, Investigation, \nPerception, Persuasion, Sleight \nof Hand, or Stealth\nWeapon Proficiencies Simple weapons and Martial \nweapons that have the Finesse \nor Light property\nTool Proficiencies Thieves’ Tools\nArmor Training Light armor\nStarting Equipment Choose A or B: (A) Leather Ar -\nmor, 2 Daggers, Short  sword, \nShortbow, 20 Arrows, Quiver, \nThieves’ Tools, Burglar’s Pack, \nand 8 GP; or (B) 100 GP\nBecoming a Rogue …\nAs a Level 1 Character\n• Gain all the traits in the Core Rogue Traits table",
+    "descricao": null,
+    "pagina_inicial": 61
+  },
+  {
+    "id": 57,
+    "nome": "Rogue",
+    "hit_dice": "",
+    "proficiencias": "Dexterity and Intelligence\nSkill Proficiencies Choose 4: Acrobatics, Ath -\nletics, Deception, Insight, \nIntimidation, Investigation, \nPerception, Persuasion, Sleight \nof Hand, or Stealth\nWeapon Proficiencies Simple weapons and Martial \nweapons that have the Finesse \nor Light property\nTool Proficiencies Thieves’ Tools\nArmor Training Light armor\nStarting Equipment Choose A or B: (A) Leather Ar -\nmor, 2 Daggers, Short  sword, \nShortbow, 20 Arrows, Quiver, \nThieves’ Tools, Burglar’s Pack, \nand 8 GP; or (B) 100 GP\nBecoming a Rogue …\nAs a Level 1 Character\n• Gain all the traits in the Core Rogue Traits table",
+    "descricao": null,
+    "pagina_inicial": 61
+  },
+  {
+    "id": 58,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 65
+  },
+  {
+    "id": 59,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 66
+  },
+  {
+    "id": 60,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 67
+  },
+  {
+    "id": 61,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 68
+  },
+  {
+    "id": 62,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 69
+  },
+  {
+    "id": 63,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 71
+  },
+  {
+    "id": 64,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 72
+  },
+  {
+    "id": 65,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 73
+  },
+  {
+    "id": 66,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 74
+  },
+  {
+    "id": 67,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 75
+  },
+  {
+    "id": 68,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 76
+  },
+  {
+    "id": 69,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 78
+  },
+  {
+    "id": 70,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 79
+  },
+  {
+    "id": 71,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 80
+  },
+  {
+    "id": 72,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 81
+  },
+  {
+    "id": 73,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 82
+  },
+  {
+    "id": 74,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 85
+  },
+  {
+    "id": 75,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 87
+  },
+  {
+    "id": 76,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 97
+  },
+  {
+    "id": 77,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 97
+  },
+  {
+    "id": 78,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 97
+  },
+  {
+    "id": 79,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 97
+  },
+  {
+    "id": 80,
+    "nome": "Bard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 81,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 82,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 83,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 84,
+    "nome": "Ranger",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 85,
+    "nome": "Sorcerer",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 86,
+    "nome": "Warlock",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 87,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 104
+  },
+  {
+    "id": 88,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 203
+  },
+  {
+    "id": 89,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 217
+  },
+  {
+    "id": 90,
+    "nome": "Paladin",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 225
+  },
+  {
+    "id": 91,
+    "nome": "Wizard",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 242
+  },
+  {
+    "id": 92,
+    "nome": "Cleric",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 246
+  },
+  {
+    "id": 93,
+    "nome": "Druid",
+    "hit_dice": "",
+    "proficiencias": "",
+    "descricao": null,
+    "pagina_inicial": 279
+  }
+]
