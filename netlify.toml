@@ -3,7 +3,7 @@
 
 # Configurações básicas do site
 [build]
-  publish = "static"
+  publish = "."
   command = "echo 'No build command needed'"
 
 # Redirecionamentos e reescritas
