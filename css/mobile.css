@@ -1,0 +1,109 @@
+/* Estilos para dispositivos móveis */
+@media (max-width: 768px) {
+    .app-container {
+        padding: 0 10px;
+    }
+    
+    header {
+        padding: 0.8rem;
+    }
+    
+    .logo h1 {
+        font-size: 2rem;
+    }
+    
+    .main-menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        padding: 1rem 0;
+    }
+    
+    .main-menu.active {
+        display: flex;
+    }
+    
+    .main-menu li {
+        margin: 0.5rem 0;
+    }
+    
+    .menu-toggle {
+        display: block;
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+    }
+    
+    .menu-toggle.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    
+    .menu-toggle.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+    
+    .menu-toggle.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+    
+    section {
+        padding: 1.5rem;
+    }
+    
+    .category-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
+    }
+    
+    .category-card {
+        padding: 1rem;
+    }
+    
+    .filter-options {
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+        flex-wrap: nowrap;
+    }
+    
+    .filter-btn {
+        white-space: nowrap;
+    }
+    
+    .dice-roller {
+        width: 250px;
+        bottom: 10px;
+        right: 10px;
+    }
+    
+    .dice-buttons {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .dice-custom {
+        flex-wrap: wrap;
+    }
+    
+    .items-tabs, .favorites-tabs {
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+    }
+    
+    .tab-btn {
+        white-space: nowrap;
+    }
+    
+    .spells-filters, .monsters-filters, .items-filters {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .filter-group {
+        margin-right: 0;
+        margin-bottom: 0.8rem;
+    }
+    
+    .filter-group select {
+        width: 100%;
+    }
+}
