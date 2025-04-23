@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instruções para Implantação no Netlify</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 30px;
+        }
+        code {
+            background-color: #f8f8f8;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: monospace;
+            border: 1px solid #ddd;
+        }
+        pre {
+            background-color: #f8f8f8;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            border: 1px solid #ddd;
+        }
+        .step {
+            margin-bottom: 30px;
+            padding-left: 20px;
+            border-left: 3px solid #3498db;
+        }
+        .note {
+            background-color: #ffffcc;
+            padding: 10px;
+            border-left: 4px solid #ffcc00;
+            margin: 15px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Instruções para Implantação do Site de Referência D&D no Netlify</h1>
+    
+    <p>Este documento contém instruções passo a passo para implantar o site de referência D&D no Netlify usando apenas um dispositivo móvel.</p>
+    
+    <div class="note">
+        <strong>Nota:</strong> O Netlify é uma plataforma de hospedagem gratuita que permite implantar sites estáticos facilmente. Você não precisará de um computador para seguir estas instruções.
+    </div>
+    
+    <h2>Passo 1: Criar uma conta no Netlify</h2>
+    <div class="step">
+        <ol>
+            <li>Abra o navegador do seu celular e acesse <a href="https://app.netlify.com/signup">https://app.netlify.com/signup</a></li>
+            <li>Você pode se cadastrar usando sua conta do GitHub, GitLab, Bitbucket ou e-mail</li>
+            <li>Recomendamos usar a opção GitHub, pois facilitará os próximos passos</li>
+            <li>Siga as instruções na tela para concluir o cadastro</li>
+        </ol>
+    </div>
+    
+    <h2>Passo 2: Criar um repositório no GitHub</h2>
+    <div class="step">
+        <ol>
+            <li>Acesse <a href="https://github.com/new">https://github.com/new</a> no navegador do seu celular</li>
+            <li>Dê um nome ao repositório, como "dnd-reference-site"</li>
+            <li>Deixe o repositório como público</li>
+            <li>Marque a opção "Add a README file"</li>
+            <li>Clique em "Create repository"</li>
+        </ol>
+    </div>
+    
+    <h2>Passo 3: Fazer upload dos arquivos do site</h2>
+    <div class="step">
+        <ol>
+            <li>Descompacte o arquivo ZIP do site que você recebeu</li>
+            <li>No seu repositório GitHub, clique no botão "Add file" e selecione "Upload files"</li>
+            <li>Arraste ou selecione os arquivos da pasta "static" para upload</li>
+            <li>Você precisará fazer isso várias vezes para cada pasta (css, js, data)</li>
+            <li>Certifique-se de fazer upload do arquivo index.html e netlify.toml na raiz</li>
+            <li>Após cada upload, adicione uma mensagem de commit como "Adicionar arquivos do site" e clique em "Commit changes"</li>
+        </ol>
+        
+        <div class="note">
+            <strong>Dica:</strong> Se estiver difícil fazer upload de muitos arquivos pelo celular, você pode usar o GitHub Desktop no computador ou pedir ajuda a alguém com acesso a um computador.
+        </div>
+    </div>
+    
+    <h2>Passo 4: Implantar o site no Netlify</h2>
+    <div class="step">
+        <ol>
+            <li>Volte para o Netlify (app.netlify.com) e faça login</li>
+            <li>Clique no botão "Add new site" e selecione "Import an existing project"</li>
+            <li>Escolha "GitHub" como provedor de Git</li>
+            <li>Autorize o Netlify a acessar seu GitHub, se solicitado</li>
+            <li>Selecione o repositório "dnd-reference-site" que você criou</li>
+            <li>Na seção de configurações de build:
+                <ul>
+                    <li>Branch to deploy: main</li>
+                    <li>Base directory: (deixe em branco)</li>
+                    <li>Build command: (deixe em branco)</li>
+                    <li>Publish directory: (deixe em branco, o netlify.toml já configura isso)</li>
+                </ul>
+            </li>
+            <li>Clique em "Deploy site"</li>
+        </ol>
+    </div>
+    
+    <h2>Passo 5: Acessar seu site</h2>
+    <div class="step">
+        <ol>
+            <li>O Netlify começará a implantar seu site. Isso pode levar alguns minutos</li>
+            <li>Quando a implantação for concluída, você verá um URL aleatório como "random-name-123456.netlify.app"</li>
+            <li>Clique nesse URL para acessar seu site de referência D&D</li>
+            <li>Você pode personalizar esse URL clicando em "Domain settings" e depois em "Options" > "Edit site name"</li>
+        </ol>
+    </div>
+    
+    <h2>Solução de Problemas</h2>
+    <div class="step">
+        <h3>Se o site não carregar corretamente:</h3>
+        <ol>
+            <li>Verifique se todos os arquivos foram carregados corretamente no GitHub</li>
+            <li>Certifique-se de que o arquivo netlify.toml está na raiz do repositório</li>
+            <li>No Netlify, vá para a seção "Deploys" e clique no deploy mais recente para ver os logs</li>
+            <li>Se necessário, clique em "Trigger deploy" para tentar novamente</li>
+        </ol>
+        
+        <h3>Se os dados não aparecerem:</h3>
+        <ol>
+            <li>Verifique se os arquivos JSON na pasta "data" foram carregados corretamente</li>
+            <li>Abra o console do navegador (geralmente acessível nas opções de desenvolvedor) para ver mensagens de erro</li>
+        </ol>
+    </div>
+    
+    <div class="note">
+        <strong>Importante:</strong> Uma vez implantado, seu site estará disponível online e você poderá acessá-lo de qualquer dispositivo com acesso à internet. Não é necessário manter seu celular conectado para que o site funcione.
+    </div>
+    
+    <h2>Recursos Adicionais</h2>
+    <ul>
+        <li><a href="https://docs.netlify.com/site-deploys/overview/">Documentação do Netlify sobre implantações</a></li>
+        <li><a href="https://docs.github.com/en/repositories/working-with-files/managing-files">Gerenciando arquivos no GitHub</a></li>
+    </ul>
+</body>
+</html>
